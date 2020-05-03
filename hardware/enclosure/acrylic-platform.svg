@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1390" height="840" viewBox="80 140 1390 840" role="img" aria-labelledby="title desc">
+<title id="title">Платформа балансирующего робота — размерный эскиз</title>
+<desc id="desc">Восстановлено по старому эскизу. Размеры в миллиметрах. Диаметры отверстий на эскизе не указаны; восемь отверстий предназначены для крепления двигателей. Симметрия принята при восстановлении. Четыре внешних угла скруглены одинаковыми дугами; радиус показан условно и требует уточнения. Толщина и допуски требуют уточнения. Не для лазерной резки.</desc>
+<defs><marker id="arrow" viewBox="-10 -3 10 6" refX="0" refY="0" markerWidth="12" markerHeight="7" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0 0 L-10 -3 L-10 3 Z" fill="#20252a"/></marker></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#20252a}.outline{fill:none;stroke:#20252a;stroke-width:2.5}.thin{fill:none;stroke:#20252a;stroke-width:1}.axis{fill:none;stroke:#77818a;stroke-width:1;stroke-dasharray:20 5 3 5}.dim{fill:none;stroke:#20252a;stroke-width:1;marker-start:url(#arrow);marker-end:url(#arrow)}.label{font-size:23px;text-anchor:middle;paint-order:stroke;stroke:white;stroke-width:7;stroke-linejoin:round}.note{font-size:20px;fill:#57616a}</style>
+<rect width="1600" height="1160" fill="white"/>
+<!-- Four equal circular corner rounds; drawn radius is illustrative, not specified. -->
+<rect class="outline" x="280" y="320" width="992" height="528" rx="16" ry="16"/>
+<line class="axis" x1="248" y1="584" x2="1304" y2="584"/>
+<line class="axis" x1="776" y1="288" x2="776" y2="880"/>
+<circle class="outline" cx="304" cy="344" r="12.0"/>
+<line class="axis" x1="281" y1="344" x2="327" y2="344"/>
+<line class="axis" x1="304" y1="321" x2="304" y2="367"/>
+<circle class="outline" cx="304" cy="824" r="12.0"/>
+<line class="axis" x1="281" y1="824" x2="327" y2="824"/>
+<line class="axis" x1="304" y1="801" x2="304" y2="847"/>
+<circle class="outline" cx="480" cy="344" r="12.0"/>
+<line class="axis" x1="457" y1="344" x2="503" y2="344"/>
+<line class="axis" x1="480" y1="321" x2="480" y2="367"/>
+<circle class="outline" cx="480" cy="824" r="12.0"/>
+<line class="axis" x1="457" y1="824" x2="503" y2="824"/>
+<line class="axis" x1="480" y1="801" x2="480" y2="847"/>
+<circle class="outline" cx="1072" cy="344" r="12.0"/>
+<line class="axis" x1="1049" y1="344" x2="1095" y2="344"/>
+<line class="axis" x1="1072" y1="321" x2="1072" y2="367"/>
+<circle class="outline" cx="1072" cy="824" r="12.0"/>
+<line class="axis" x1="1049" y1="824" x2="1095" y2="824"/>
+<line class="axis" x1="1072" y1="801" x2="1072" y2="847"/>
+<circle class="outline" cx="1248" cy="344" r="12.0"/>
+<line class="axis" x1="1225" y1="344" x2="1271" y2="344"/>
+<line class="axis" x1="1248" y1="321" x2="1248" y2="367"/>
+<circle class="outline" cx="1248" cy="824" r="12.0"/>
+<line class="axis" x1="1225" y1="824" x2="1271" y2="824"/>
+<line class="axis" x1="1248" y1="801" x2="1248" y2="847"/>
+<circle class="outline" cx="600" cy="484.0" r="12.0"/>
+<line class="axis" x1="577" y1="484.0" x2="623" y2="484.0"/>
+<line class="axis" x1="600" y1="461.0" x2="600" y2="507.0"/>
+<circle class="outline" cx="600" cy="684.0" r="12.0"/>
+<line class="axis" x1="577" y1="684.0" x2="623" y2="684.0"/>
+<line class="axis" x1="600" y1="661.0" x2="600" y2="707.0"/>
+<circle class="outline" cx="952" cy="484.0" r="12.0"/>
+<line class="axis" x1="929" y1="484.0" x2="975" y2="484.0"/>
+<line class="axis" x1="952" y1="461.0" x2="952" y2="507.0"/>
+<circle class="outline" cx="952" cy="684.0" r="12.0"/>
+<line class="axis" x1="929" y1="684.0" x2="975" y2="684.0"/>
+<line class="axis" x1="952" y1="661.0" x2="952" y2="707.0"/>
+<circle class="outline" cx="348.0" cy="520" r="16.8"/>
+<line class="axis" x1="325.0" y1="520" x2="371.0" y2="520"/>
+<line class="axis" x1="348.0" y1="497" x2="348.0" y2="543"/>
+<circle class="outline" cx="348.0" cy="648" r="16.8"/>
+<line class="axis" x1="325.0" y1="648" x2="371.0" y2="648"/>
+<line class="axis" x1="348.0" y1="625" x2="348.0" y2="671"/>
+<circle class="outline" cx="460.0" cy="520" r="16.8"/>
+<line class="axis" x1="437.0" y1="520" x2="483.0" y2="520"/>
+<line class="axis" x1="460.0" y1="497" x2="460.0" y2="543"/>
+<circle class="outline" cx="460.0" cy="648" r="16.8"/>
+<line class="axis" x1="437.0" y1="648" x2="483.0" y2="648"/>
+<line class="axis" x1="460.0" y1="625" x2="460.0" y2="671"/>
+<circle class="outline" cx="1092.0" cy="520" r="16.8"/>
+<line class="axis" x1="1069.0" y1="520" x2="1115.0" y2="520"/>
+<line class="axis" x1="1092.0" y1="497" x2="1092.0" y2="543"/>
+<circle class="outline" cx="1092.0" cy="648" r="16.8"/>
+<line class="axis" x1="1069.0" y1="648" x2="1115.0" y2="648"/>
+<line class="axis" x1="1092.0" y1="625" x2="1092.0" y2="671"/>
+<circle class="outline" cx="1204.0" cy="520" r="16.8"/>
+<line class="axis" x1="1181.0" y1="520" x2="1227.0" y2="520"/>
+<line class="axis" x1="1204.0" y1="497" x2="1204.0" y2="543"/>
+<circle class="outline" cx="1204.0" cy="648" r="16.8"/>
+<line class="axis" x1="1181.0" y1="648" x2="1227.0" y2="648"/>
+<line class="axis" x1="1204.0" y1="625" x2="1204.0" y2="671"/>
+<rect class="outline" x="672" y="356.0" width="208" height="80" rx="12"/>
+<rect class="outline" x="672" y="732.0" width="208" height="80" rx="12"/>
+<line class="thin" x1="480" y1="339" x2="480" y2="262"/>
+<line class="thin" x1="1072" y1="339" x2="1072" y2="262"/>
+<line class="dim" x1="480" y1="270" x2="1072" y2="270"/>
+<text class="label" x="776.0" y="261">74</text>
+<line class="thin" x1="304" y1="339" x2="304" y2="214"/>
+<line class="thin" x1="1248" y1="339" x2="1248" y2="214"/>
+<line class="dim" x1="304" y1="222" x2="1248" y2="222"/>
+<text class="label" x="776.0" y="213">118</text>
+<line class="thin" x1="280" y1="331" x2="280" y2="166"/>
+<line class="thin" x1="1272" y1="331" x2="1272" y2="166"/>
+<line class="dim" x1="280" y1="174" x2="1272" y2="174"/>
+<text class="label" x="776.0" y="165">124</text>
+<line class="thin" x1="600" y1="489.0" x2="600" y2="532.0"/>
+<line class="thin" x1="952" y1="489.0" x2="952" y2="532.0"/>
+<line class="dim" x1="600" y1="524.0" x2="952" y2="524.0"/>
+<text class="label" x="776.0" y="515.0">44</text>
+<line class="thin" x1="460.0" y1="653" x2="460.0" y2="914"/>
+<line class="thin" x1="1092.0" y1="653" x2="1092.0" y2="914"/>
+<line class="dim" x1="460.0" y1="906" x2="1092.0" y2="906"/>
+<text class="label" x="776.0" y="897">79</text>
+<line class="thin" x1="348.0" y1="653" x2="348.0" y2="962"/>
+<line class="thin" x1="1204.0" y1="653" x2="1204.0" y2="962"/>
+<line class="dim" x1="348.0" y1="954" x2="1204.0" y2="954"/>
+<text class="label" x="776.0" y="945">107</text>
+<line class="thin" x1="1209.0" y1="520" x2="1328" y2="520"/>
+<line class="thin" x1="1209.0" y1="648" x2="1328" y2="648"/>
+<line class="dim" x1="1320" y1="520" x2="1320" y2="648"/>
+<text class="label" x="1310" y="584.0" transform="rotate(-90 1310 584.0)">16</text>
+<line class="thin" x1="1253" y1="344" x2="1378" y2="344"/>
+<line class="thin" x1="1253" y1="824" x2="1378" y2="824"/>
+<line class="dim" x1="1370" y1="344" x2="1370" y2="824"/>
+<text class="label" x="1360" y="584.0" transform="rotate(-90 1360 584.0)">60</text>
+<line class="thin" x1="1261" y1="320" x2="1428" y2="320"/>
+<line class="thin" x1="1261" y1="848" x2="1428" y2="848"/>
+<line class="dim" x1="1420" y1="320" x2="1420" y2="848"/>
+<text class="label" x="1410" y="584.0" transform="rotate(-90 1410 584.0)">66</text>
+<line class="thin" x1="595" y1="484.0" x2="216" y2="484.0"/>
+<line class="thin" x1="595" y1="684.0" x2="216" y2="684.0"/>
+<line class="dim" x1="224" y1="484.0" x2="224" y2="684.0"/>
+<text class="label" x="214" y="584.0" transform="rotate(-90 214 584.0)">25</text>
+<line class="thin" x1="667" y1="436.0" x2="166" y2="436.0"/>
+<line class="thin" x1="667" y1="732.0" x2="166" y2="732.0"/>
+<line class="dim" x1="174" y1="436.0" x2="174" y2="732.0"/>
+<text class="label" x="164" y="584.0" transform="rotate(-90 164 584.0)">37</text>
+<line class="thin" x1="672" y1="727.0" x2="672" y2="700.0"/>
+<line class="thin" x1="880" y1="727.0" x2="880" y2="700.0"/>
+<line class="dim" x1="672" y1="708.0" x2="880" y2="708.0"/>
+<text class="label" x="776.0" y="699.0">26</text>
+<line class="thin" x1="885" y1="732.0" x2="944" y2="732.0"/>
+<line class="thin" x1="885" y1="812.0" x2="944" y2="812.0"/>
+<line class="dim" x1="936" y1="732.0" x2="936" y2="812.0"/>
+<text class="label" x="926" y="772.0" transform="rotate(-90 926 772.0)">10</text>
+</svg>

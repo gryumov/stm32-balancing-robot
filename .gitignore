@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+Objects/
+Listings/
+*.uvoptx
+*.uvguix.*
+*.bak
+*.lck
+History/
+__Previews/
+OldVersions/
+Project Logs for */
+Project Outputs for */
